@@ -28,7 +28,7 @@
   
   #container{
     margin-top:30px;
-    margin-left:600px;
+    margin-left:400px;
     max-width: 800px;
     padding: 50px;
 
